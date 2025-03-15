@@ -1,5 +1,6 @@
 
     // Navegación entre páginas
+*/
 document.addEventListener('DOMContentLoaded', function () {
   const navLinks = document.querySelectorAll('.nav-link');
   const pages = document.querySelectorAll('.page');
@@ -95,4 +96,4 @@ document.addEventListener('DOMContentLoaded', function () {
       chatMessages.scrollTop = chatMessages.scrollHeight; // Desplazamos hacia abajo para mostrar el nuevo mensaje
     }
   }
-});
+});/*
