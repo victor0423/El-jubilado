@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
     // Navegación entre páginas
 /*document.addEventListener('DOMContentLoaded', function () {
+=======
+// Navegación entre páginas
+document.addEventListener('DOMContentLoaded', function () {
+>>>>>>> 9e6424783ad65c66f046b1d345c7eab36e801d7b
   const navLinks = document.querySelectorAll('.nav-link');
   const pages = document.querySelectorAll('.page');
   const navToggle = document.querySelector('.nav-toggle');
